@@ -4,7 +4,6 @@
 
 # Resources from Coursera Course on NLP
 
-Here is the <a href=https://github.com/hse-aml/natural-language-processing >Git Repo </a> for the materials for this course.
 
 List of all the lecture video
 
