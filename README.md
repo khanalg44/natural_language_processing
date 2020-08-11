@@ -4,6 +4,7 @@ Some nice NLP projects.
 
 
 ## Datasets available
+* [Coursera Git resource](https://github.com/hse-aml/natural-language-processing)
 * [Movie dialogues data](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 
 ## References
