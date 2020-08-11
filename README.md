@@ -4,8 +4,9 @@ Some nice NLP projects.
 
 
 ## Datasets available
-* [Coursera Git resource](https://github.com/hse-aml/natural-language-processing)
+* [Coursera Git resource](https://github.com/hse-aml/natural-language-processing)[.](https://github.com/nsanghi/HSE-NLP-Coursera )
 * [Movie dialogues data](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
+* [Google News dataset](https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz) can be downloaded using `wget -c`.
 
 ## References
 * [Aurelien Geron (2019): Chapter 16](https://github.com/ageron/handson-ml2/blob/master/16_nlp_with_rnns_and_attention.ipynb) : RNN
