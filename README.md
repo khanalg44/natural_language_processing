@@ -3,7 +3,7 @@
 Some nice NLP projects.
 
 ## References
-* [Coursera Git resource](https://github.com/hse-aml/natural-language-processing)[.](https://github.com/nsanghi/HSE-NLP-Coursera)
+* [Coursera Git resource](https://github.com/hse-aml/natural-language-processing)[.](https://github.com/nsanghi/HSE-NLP-Coursera)[.](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization)
 * [Stanford NLP website](http://web.stanford.edu/class/cs224n/)
 * [scikit learn tutorial](https://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html)
 * [Blog: text classification (towardsdatascience)](https://towardsdatascience.com/text-classification-with-extremely-small-datasets-333d322caee2)
