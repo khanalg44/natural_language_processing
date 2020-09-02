@@ -15,3 +15,5 @@ Some nice NLP projects.
 ## Datasets
 * [Movie dialogues data](http://www.cs.cornell.edu/~cristian/Cornell_Movie-Dialogs_Corpus.html)
 * [Google News dataset](https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz) can be downloaded using `wget -c`.
+
+Please feel free to contact me via my [linkedin page](www.linkedin.com/in/ghanashyam-khanal).
