@@ -1,10 +1,12 @@
 # Natural Language Processing
 
-Projects with NLP
+## Projects with NLP
 
 **00. Twitter Sentiment**
   - Usage of NLTK-spacy 
   - Named Entity Recognition, Vocabulary and phrase matching with Spacy
+  - Wordcloud and sentiment analysis using nltk
+  - Formating a pdf file
 
 **01. News Text Classification**
   - Text Classification (from Kaggle) using LR model in Sklearn
