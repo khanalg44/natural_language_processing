@@ -1,6 +1,48 @@
 # Natural Language Processing
 
-Some nice NLP projects.
+Projects with NLP
+
+**00. Twitter Sentiment**
+  - Usage of NLTK-spacy 
+  - Named Entity Recognition, Vocabulary and phrase matching with Spacy
+
+**01. News Text Classification**
+  - Text Classification (from Kaggle) using LR model in Sklearn
+  - Mean Reciprocal Rank (MRR) implimentation from scratch
+  - Text Classification using Random Forest model in Sklearn
+
+**02. [c1] Stackexchange Text Classifier**
+  - Examples of Tokenization, Stemming, TF-IDF from nltk 
+  - Examples of Counter, Sort, AST
+  - Bag of Words implementation from scratch
+  - TF-IDF implementation from scratch
+
+**03. Disaster Tweets Kaggle**
+  - Disaster Tweets classifications from Kaggle competition
+  - Uses Logistic Regression, Random Forest from sklearn
+
+**04. [u1] Naive Bayes Spam Classifier**
+  - Naive Bayes Classifier for Spam classification
+  - Bayes Theorem implementation from scratch
+  - Naive Bayes implementation from scratch
+  - Bag of words implementation
+
+**05. [u3] Latent Dirichlet Allocation for news classification**
+  - News Classification with abcnews data using LDA from nltk
+  - Examples of Lemmatizer, Stemmer, Bag of Words, TFIDF from nltk
+
+**06. Sentiment Analysis using Logistic Regression**
+  - Sentiment analysis with Twitter data using Logistic Regression
+  - Implementation of Logistic Regression from scratch
+
+**07. [ud1] Topic Modeling LDA**
+  - Topic Modeling using LDA from nltk
+  - Documents Similarity with BBC sports data using TF-IDF model from nltk
+  - Similarity with BBC sports data using Word2Vec model
+  - LDA, TFIDF, Word2Vec, Bag of Words from nltk
+
+
+
 
 ## References
 * [Coursera Git resource](https://github.com/hse-aml/natural-language-processing)[.](https://github.com/nsanghi/HSE-NLP-Coursera)[.](https://github.com/ijelliti/Deeplearning.ai-Natural-Language-Processing-Specialization)
