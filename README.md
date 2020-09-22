@@ -43,6 +43,10 @@
   - Similarity with BBC sports data using Word2Vec model
   - LDA, TFIDF, Word2Vec, Bag of Words from nltk
 
+**08 [c5] Building a Chat Bot for StackOverflow**
+  - Build a chatbot for StackOverflow questions.
+  - Dataset contains the questions and tags for the SO questions.
+  - Used a simple LR model.
 
 
 
