@@ -38,8 +38,8 @@
   - Implementation of Logistic Regression from scratch
 
 **07. [ud1] Topic Modeling LDA**
-  - Topic Modeling using LDA from nltk
   - Documents Similarity with BBC sports data using TF-IDF model from nltk
+  - Topic Modeling using LDA from nltk
   - Similarity with BBC sports data using Word2Vec model
   - LDA, TFIDF, Word2Vec, Bag of Words from nltk
 
